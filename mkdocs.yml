@@ -1,0 +1,43 @@
+site_name: Nybble Q
+theme: readthedocs
+
+repo_url: https://github.com/autorope/donkeydocs/
+edit_uri: edit/main/docs
+extra_css:
+  - extra.css
+  
+nav:
+  - Home: index.md
+  - 1 Preparation: 1-preparation.md
+  - 2 Open the box: 2-open-the-box.md
+  - 3 Board Setup:
+    - Desktop App: 3-board-setup/desktop-app.md
+    - Arduino IDE: 3-board-setup/arduino-ide.md
+  - 4 Calibration:
+    - Principle: 4-calibration/principle.md
+    - Desktop App: 4-calibration/desktop-app.md
+    - Mobile App: 4-calibration/mobile-app.md
+    - Arduino IDE: 4-calibration/arduino-ide.md
+  - 5 Play With Nybble Q:
+    - Voice Commands: 5-play-with-nybble-q/voice-commands.md
+    - Mobile App: 5-play-with-nybble-q/mobile-app.md
+    - Coding Blocks: 5-play-with-nybble-q/coding-blocks.md
+    - Arduino IDE: 5-play-with-nybble-q/arduino-ide.md
+    - Python: 5-play-with-nybble-q/python.md
+    - Raspberry Pi: 5-play-with-nybble-q/raspberry-pi.md
+    - Extensible Modules:
+      - Ultrasonic Sensor: 5-play-with-nybble-q/extensible-modules/ultrasonic-sensor.md
+      - Voice Command Module: 5-play-with-nybble-q/extensible-modules/voice-command-module.md
+      - MU Camera: 5-play-with-nybble-q/extensible-modules/mu-camera.md
+      - Light Sensor: 5-play-with-nybble-q/extensible-modules/light-sensor.md
+      - Touch Sensor: 5-play-with-nybble-q/extensible-modules/touch-sensor.md
+      - Gesture Sensor: 5-play-with-nybble-q/extensible-modules/gesture-sensor.md
+      - PIR Motion Sensor: 5-play-with-nybble-q/extensible-modules/pir-motion-sensor.md
+      - IR Distance Sensor: 5-play-with-nybble-q/extensible-modules/ir-distance-sensor.md
+      - Grove Vision AI V2: 5-play-with-nybble-q/extensible-modules/grove-vision-ai-v2.md
+  - 6 Teach Nybble Q New Skills:
+    - Desktop App: 6-teach-nybble-q-new-skills/desktop-app.md
+    - Arduino IDE: 6-teach-nybble-q-new-skills/arduino-code.md
+  - Support:
+    - Useful Links: support/useful-links.md
+    
