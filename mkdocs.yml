@@ -6,6 +6,10 @@ edit_uri: edit/main/docs
 extra_css:
   - extra.css
   
+plugins:
+  - include-markdown:
+      rewrite_relative_urls: true
+  
 nav:
   - Home: index.md
   - 1 Preparation: 1-preparation.md
