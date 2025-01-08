@@ -1,7 +1,7 @@
 site_name: Nybble Q
 theme: readthedocs
 
-repo_url: https://github.com/autorope/donkeydocs/
+repo_url: https://github.com/JasonWong08/NybbleQdocs/
 edit_uri: edit/main/docs
 extra_css:
   - extra.css
