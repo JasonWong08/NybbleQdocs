@@ -7,8 +7,7 @@ extra_css:
   - extra.css
   
 plugins:
-  - include-markdown:
-      rewrite_relative_urls: true
+  - include-markdown
   
 nav:
   - Home: index.md
